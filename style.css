@@ -1,0 +1,18 @@
+#posts{
+    background-color: black;
+    color: white;
+    margin: 20px 0;
+    overflow-x: scroll;
+}
+#products{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px 0;
+    overflow-x: scroll;
+}
+#todos{
+    background-color: red;
+    color: white;
+    margin: 20px 0;
+    overflow-x: scroll;
+}
